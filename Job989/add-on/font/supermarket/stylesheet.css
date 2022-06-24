@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'supermarket';
+    src: url('supermarket.woff2') format('woff2'),
+        url('supermarket.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
