@@ -1,6 +1,6 @@
 <?php get_header(); ?>
 
-<main id="primary" class="site-main main-list main-archive-post">
+<main id="primary" class="site-main main-list main-archive-post home_archive">
     <?php if ( have_posts() ) : ?>
         <div class="title-header-1">
         <div class="s-container">
